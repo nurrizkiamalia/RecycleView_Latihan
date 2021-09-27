@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">latianUAS</string>
+
+    <string-array name="edukasi">
+        <item>Flutter</item>
+        <item>Laravel</item>
+        <item>React JS</item>
+        <item>Unity</item>
+        <item>Unreal Engine</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Ini tentang Flutter ni tentang Flutter ni tentang Flutter ni tentang Flutter ni tentang Flutter ni tentang Flutter ni tentang Flutter</item>
+        <item>Ini tentang Laravel</item>
+        <item>Ini tentang React JS</item>
+        <item>Ini tentang Unity</item>
+        <item>Ini tentang Unreal Engine</item>
+    </string-array>
+
+</resources>
